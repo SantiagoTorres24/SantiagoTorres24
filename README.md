@@ -3,7 +3,6 @@
 📍 Buenos Aires, Argentina  
 📧 santiago.torres.franco@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/santiago-nicol%C3%A1s-torres-franco-742327260/)  
-💻 [GitHub](https://github.com/SantiagoTorres24)
 
 ---
 
