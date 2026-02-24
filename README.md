@@ -1,117 +1,130 @@
-# Santiago Nicolás Torres Franco
-
-📍 Buenos Aires, Argentina  
-📧 santiago.torres.franco@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/santiago-nicol%C3%A1s-torres-franco-742327260/)  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300C2FF&size=45&center=true&vCenter=true&height=60&width=750&lines=Hola!+Soy+Santiago+Torres;Estudiante+de+Ingenieria+en+Sistemas;Backend+%7C+Data+Enthusiast;Buscando+mi+primer+desafio+en+IT+🚀" />
+</div>
 
 ---
 
-## 👨‍💻 Sobre mí
+<h1 align="center">👨‍💻 Santiago Nicolás Torres Franco</h1>
 
-Soy estudiante de cuarto año de **Ingeniería en Sistemas de Información (UTN-FRBA)** con un fuerte interés en comprender cómo funcionan los sistemas a nivel arquitectónico y participar activamente en su diseño e implementación.
-
-Actualmente me encuentro en búsqueda de mi primera experiencia profesional en el área IT. Me interesa especialmente el mundo de los datos y el backend, aunque estoy abierto a distintos roles que me permitan seguir creciendo técnica y profesionalmente.
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🖥️ Sistema Operativo desde Cero | Go
-
-Proyecto académico en el que desarrollamos una emulación de sistema operativo dividido en módulos:
-
-- Kernel  
-- Memoria  
-- CPU  
-- IO  
-
-🔹 Responsabilidades principales:
-
-- Implementación de una **MMU** para traducción de direcciones lógicas.
-- Uso de **TLB** para optimización.
-- Gestión de **caché de páginas**.
-- Ejecución concurrente de instrucciones.
-- Comunicación entre módulos mediante **HTTP**.
-- Simulación de operaciones de entrada/salida.
-
-Este proyecto me permitió profundizar en arquitectura de computadoras, concurrencia y diseño de sistemas distribuidos.
+<p align="center">
+🎓 Estudiante avanzado de Ingeniería en Sistemas (UTN-FRBA) <br>
+📊 Interesado en Datos, Backend y Arquitectura de Sistemas <br>
+🚀 Buscando mi primera experiencia profesional en IT
+</p>
 
 ---
 
-### 🌐 Aplicación Web Full Stack | Java + Spring
+## 🎯 Objetivo Profesional
 
-Desarrollo de aplicación web bajo arquitectura de microservicios.
+Me interesa comenzar mi carrera en el área de **Datos, Backend o Ingeniería de Software**, donde pueda:
 
-**Stack utilizado:**
+- Diseñar y modelar bases de datos eficientes
+- Trabajar con APIs y arquitecturas distribuidas
+- Analizar, transformar y gestionar información
+- Aplicar buenas prácticas de ingeniería en sistemas reales
 
-- Backend: Java + Spring
-- Frontend: HTML + Thymeleaf + CSS
-- Base de Datos: MySQL
-- Contenerización: Docker
-- Deploy: AWS
-
-🔹 Enfoque principal:
-
-- Diseño del modelo relacional.
-- Implementación de entidades persistentes.
-- Transformación de entidad de dominio a entidad de base de datos.
-- Integración entre microservicios mediante APIs.
+Me motiva entender cómo funcionan los sistemas internamente y optimizar su rendimiento desde la arquitectura hasta la persistencia de datos.
 
 ---
 
-## 🛠 Stack Técnico
+## 🚀 Proyecto Destacado: Emulación de Sistema Operativo
+
+🖥️ Desarrollo en **Go** de un sistema operativo modular:
+
+- Kernel
+- Memoria
+- CPU
+- IO
+
+### Lo que implementé:
+
+✔ Traducción de direcciones lógicas mediante **MMU**  
+✔ Optimización con **TLB**  
+✔ Gestión de **caché de páginas**  
+✔ Ejecución concurrente de instrucciones  
+✔ Comunicación entre módulos vía HTTP  
+
+Este proyecto fortaleció mi comprensión en:
+
+- Concurrencia
+- Arquitectura de computadoras
+- Sistemas distribuidos
+- Optimización de acceso a memoria
+
+---
+
+## 🌐 Proyecto Full Stack con Enfoque en Datos
+
+Arquitectura de microservicios con:
+
+- ☕ Java + Spring
+- 🗄 MySQL
+- 🐳 Docker
+- ☁ AWS
+
+### Enfoque principal:
+
+✔ Modelado relacional  
+✔ Diseño de entidades persistentes  
+✔ Integración entre servicios mediante APIs REST  
+✔ Organización de datos orientada a escalabilidad  
+
+---
+
+## 📊 Stack Orientado a Datos
+
+<div align="center">
 
 ### Lenguajes
-- Java
-- Go
-- SQL
-- C / C++
-- JavaScript
-- Haskell
+<img src="https://skillicons.dev/icons?i=java,go,js,cpp,haskell" />
 
 ### Bases de Datos
-- MySQL
-- SQL Server
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
 
-### Herramientas
-- Spring
-- Docker
-- Git
-- Visual Studio Code
+### Backend & Herramientas
+<img src="https://skillicons.dev/icons?i=spring,nodejs,docker,git" />
 
----
-
-## 📚 Educación
-
-**Ingeniería en Sistemas de Información**  
-Universidad Tecnológica Nacional – Facultad Regional Buenos Aires  
-Promedio: 7.8  
-2023 – Presente
+</div>
 
 ---
 
-## 🎯 Perfil
+## 📈 GitHub Stats
 
-- Pensamiento analítico y estructurado.
-- Atención al detalle en diseño e implementación.
-- Experiencia trabajando en equipo en proyectos complejos.
-- Interés genuino por la arquitectura de sistemas y el área de datos.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoTorres24&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoTorres24&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-⭐ Siempre buscando aprender, mejorar y enfrentar nuevos desafíos técnicos.
+## 💼 Buscando Oportunidades en:
 
-<!--
-**SantiagoTorres24/SantiagoTorres24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Data Analyst (Junior)
+- Data Engineer (Junior)
+- Backend Developer (Junior)
+- Software Developer (Trainee / Junior)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Conectemos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/santiago-nicol%C3%A1s-torres-franco-742327260/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:santiago.torres.franco@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>📌 Disponible para entrevistas y nuevos desafíos.</strong>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" />
+</p>
